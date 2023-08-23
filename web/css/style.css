@@ -27,15 +27,17 @@ CSS STRUCTURE:
   --accent-color: #0d0d0d;
   --bs-gray-100: #f3f3f3;
   --bs-gray-200: #e7e5e2;
-  --bs-primary: #787d62;
-  --bs-secondary: #F6F5F2;
-  --bs-primary-rgb: 120, 125, 98;
+  --bs-primary: #02587b;
+  /*--bs-primary: #ff0000;*/
+  --bs-secondary: #dbe6eb;
+  --bs-primary-rgb: 2, 88, 123;
+  /*--bs-primary-rgb: 220, 53, 69;*/
   --bs-body-bg-rgb: 246, 245, 242;
   --bs-light: #fff;
   --bs-dark: #000;
   --navbar-color-color: #131814;
-  --swiper-theme-color: #787d62 !important;
-  --swiper-pagination-color: #787d62 !important;
+  --swiper-theme-color: #02587b !important;
+  --swiper-pagination-color: #02587b !important;
 
 }
 

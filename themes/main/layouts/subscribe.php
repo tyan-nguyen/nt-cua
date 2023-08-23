@@ -8,7 +8,7 @@
               </div>
               <form id="form">
                 <input type="text" name="email" placeholder="Điền Số điện thoại/Email của bạn" class="w-100 bg-light border-0 ps-5 fst-italic">
-                <button class="btn btn-full btn-black text-uppercase">Đăng ký</button>
+                <button class="btn btn-full btn-primary text-uppercase">Đăng ký</button>
               </form>
             </div>
           </div>

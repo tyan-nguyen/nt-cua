@@ -81,7 +81,7 @@
     
     <a class="fixedButton" href="">
          <div class="roundedFixedBtn">
-         	<img src="<?= Yii::getAlias('@web/img/call.gif?v=2') ?>" height="40px" /> 
+         	<img src="<?= Yii::getAlias('@web/img/call.gif?v=3') ?>" height="40px" /> 
          	0294.384.0058 
          </div>
     </a>

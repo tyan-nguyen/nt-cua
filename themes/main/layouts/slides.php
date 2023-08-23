@@ -5,7 +5,7 @@
             <div class="container-fluid">
               <div class="row">
                 <div class="col-md-12">
-                  <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-1.png); background-repeat: no-repeat; background-position: right; height: 602px;">
+                  <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-1.png?v=1); background-repeat: no-repeat; background-position: right; height: 602px;">
                     <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">Cửa thủy lực lùa</h1>
                       <p>Khi diện tích không gian của bạn bị hạn chế thì cửa kính thủy lực lùa sẽ là giải pháp tối ưu nhất bởi cửa kính cánh lùa có góc mở rộng nên phù hợp để đón nhiều gió và ánh sáng cho căn hộ của bạn mà không làm mất nhiều diện tích.</p>                      
@@ -25,7 +25,7 @@
             <div class="container-fluid">
               <div class="row">
                 <div class="col-md-12">
-                  <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-2.png); background-repeat: no-repeat; background-position: right; height: 602px;">
+                  <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-2.png?v=2); background-repeat: no-repeat; background-position: right; height: 602px;">
                     <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">Cửa đi bốn cánh</h1>
                       <p>Cửa chính đóng vai trò rất quan trọng, chính vì thế việc lựa chọn kích thước cửa chính cũng rất quan trọng. Bởi vì việc lựa chọn sai sẽ anh hưởng rất đến nhiều vấn đề như: Phong thủy, thẩm mỹ, thiết kế tổng quan.
