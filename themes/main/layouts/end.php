@@ -4,7 +4,7 @@
           <div class="row d-flex flex-wrap justify-content-between">
             <div class="col-lg-3 col-sm-6 pb-3 pe-4">
               <div class="footer-menu text-center">
-                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" alt="logo" class="pb-3 logo-footer">
+                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png?v=2" alt="logo" class="pb-3 logo-footer">
                 <p>
                 Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình.
                 </p>
