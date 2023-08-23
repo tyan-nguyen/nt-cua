@@ -12,7 +12,7 @@
           </div>
         </div>
         <div class="row">
-          <div id="featured-swiper" class="product-swiper col-md-12">
+          <div id="featured-swiper-1" class="product-swiper col-md-12">
             <div class="swiper">
               <div class="swiper-wrapper">
                 
