@@ -1,4 +1,4 @@
- <section id="featured-products" class="product-store position-relative padding-medium">
+ <section id="featured-products" class="product-store position-relative padding-small">
       <div class="container-fluid">
         <div class="row">
           <div class="display-header pb-3 d-flex justify-content-between flex-wrap col-md-12">

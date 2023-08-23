@@ -1,4 +1,4 @@
- <section id="collections" class="position-relative padding-medium">
+ <section id="collections" class="position-relative padding-small">
       <div class="container-fluid">
         <div class="row">
           <div class="swiper collection-swiper">
