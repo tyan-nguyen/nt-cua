@@ -3,11 +3,14 @@
         <div class="row">
           <div class="row d-flex flex-wrap justify-content-between">
             <div class="col-lg-3 col-sm-6 pb-3 pe-4">
-              <div class="footer-menu">
-                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" alt="logo" class="pb-3 logo">
+              <div class="footer-menu text-center">
+                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" alt="logo" class="pb-3 logo-footer">
                 <p>
-               Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình được thành lập theo giấy chứng nhận đăng ký doanh nghiệp công ty TNHH một thành viên. Mã số doanh nghiệp: 2100236683. Đăng ký lần đầu ngày 29 tháng 12 năm 2005 do Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh Trà Vinh cấp.
+                Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình.
                 </p>
+                <!-- <p>
+               Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình được thành lập theo giấy chứng nhận đăng ký doanh nghiệp công ty TNHH một thành viên. Mã số doanh nghiệp: 2100236683. Đăng ký lần đầu ngày 29 tháng 12 năm 2005 do Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh Trà Vinh cấp.
+                </p> -->
               </div>
               
             </div>
@@ -77,7 +80,7 @@
     
     
     <a class="fixedButton" href>
-     <div class="roundedFixedBtn"><img src="<?= Yii::getAlias('@web/img/call.gif') ?>" height="40px" /> 0294.384.0058 </div>
+     <div class="roundedFixedBtn"><img src="<?= Yii::getAlias('@web/img/call.gif?v=2') ?>" height="40px" /> 0294.384.0058 </div>
     </a>
     
 

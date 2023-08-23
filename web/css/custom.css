@@ -1,6 +1,11 @@
-.logo{
+.logo-header{
 	max-width:200px;
-	max-height:50px;
+	max-height:120px;
+}
+
+.logo-footer{
+	max-width:200px;
+	max-height:200px;
 }
 
 #brand-collection img{
@@ -26,7 +31,7 @@
 .roundedFixedBtn{
   height: 60px;
   line-height: 60px;  
-  width: 300px;  
+  width: 250px;  
   font-size: 1.5em;
   font-weight: bold;
   /*border-radius: 50%;*/
@@ -36,7 +41,7 @@
   cursor: pointer;
   border:1px solid #212121;
   border-radius: 10px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.9);
 }
 .roundedFixedBtn img{
 	/*border:1px solid #787d62;
