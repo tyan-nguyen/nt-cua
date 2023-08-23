@@ -3,14 +3,11 @@
         <div class="row">
           <div class="row d-flex flex-wrap justify-content-between">
             <div class="col-lg-3 col-sm-6 pb-3 pe-4">
-              <div class="footer-menu text-center">
-                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png?v=2" alt="logo" class="pb-3 logo logo-footer" />
+              <div class="footer-menu">
+                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" alt="logo" class="pb-3 logo">
                 <p>
-                Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình.
-                </p>
-                <!-- <p>
                Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình được thành lập theo giấy chứng nhận đăng ký doanh nghiệp công ty TNHH một thành viên. Mã số doanh nghiệp: 2100236683. Đăng ký lần đầu ngày 29 tháng 12 năm 2005 do Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh Trà Vinh cấp.
-                </p> -->
+                </p>
               </div>
               
             </div>
@@ -79,11 +76,8 @@
     </footer>
     
     
-    <a class="fixedButton" href="">
-         <div class="roundedFixedBtn">
-         	<img src="<?= Yii::getAlias('@web/img/call.gif?v=2') ?>" height="40px" /> 
-         	0294.384.0058 
-         </div>
+    <a class="fixedButton" href>
+     <div class="roundedFixedBtn"><img src="<?= Yii::getAlias('@web/img/call.gif') ?>" /></div>
     </a>
     
 
@@ -91,6 +85,6 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/plugins.js"></script>
-    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/script.js?v=1"></script>
+    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/script.js"></script>
   </body>
 </html>

@@ -2,7 +2,7 @@
       <nav id="header-nav" class="navbar navbar-expand-lg px-3 mb-3">
         <div class="container-fluid">
           <a class="navbar-brand" href="<?= Yii::getAlias('@web/') ?>">
-            <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png?v=2" class="logo logo-header">
+            <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" class="logo logo-header">
           </a>
           <button class="navbar-toggler d-flex d-lg-none order-3 p-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false" aria-label="Toggle navigation">
             <svg class="navbar-icon" width="50" height="50">
@@ -11,8 +11,8 @@
           </button>
           <div class="offcanvas offcanvas-end" tabindex="-1" id="bdNavbar" aria-labelledby="bdNavbarOffcanvasLabel">
             <div class="offcanvas-header px-4 pb-0">
-              <a class="navbar-brand" href="#">
-                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png?v=2" class="logo logo-header">
+              <a class="navbar-brand" href="index.html">
+                <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" class="logo logo-header">
               </a>
               <button type="button" class="btn-close btn-close-black" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdNavbar"></button>
             </div>
