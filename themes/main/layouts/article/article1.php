@@ -2,7 +2,7 @@
             <div class="card-item">
               <div class="card border-0 bg-transparent">
                 <div class="card-image">
-                  <img src="<?= Yii::getAlias('@web')  ?>/images/post-item1.jpg" alt="" class="post-image img-fluid">
+                  <img src="<?= Yii::getAlias('@web')  ?>/img/post-item1.jpg" alt="" class="post-image img-fluid">
                 </div>
               </div>
               <div class="card-body p-0 mt-4">
