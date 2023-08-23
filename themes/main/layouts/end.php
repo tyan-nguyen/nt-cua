@@ -16,19 +16,19 @@
                 <h5 class="widget-title pb-2">Liên kết</h5>
                 <ul class="menu-list list-unstyled text-uppercase">
                   <li class="menu-item pb-2">
-                    <a href="#billboard">Trang chủ</a>
+                    <a href="#">Trang chủ</a>
                   </li>
                   <li class="menu-item pb-2">
-                    <a href="#about-us">Trang chủ Nguyễn Trình</a>
+                    <a href="#">Trang chủ Nguyễn Trình</a>
                   </li>
                   <li class="menu-item pb-2">
-                    <a href="#company-services">Sản phẩm</a>
+                    <a href="#">Sản phẩm</a>
                   </li>
                   <li class="menu-item pb-2">
-                    <a href="#latest-blog">Blogs</a>
+                    <a href="#">Blogs</a>
                   </li>
                   <li class="menu-item pb-2">
-                    <a href="#contact">Liên hệ</a>
+                    <a href="#">Liên hệ</a>
                   </li>
                 </ul>
               </div>
@@ -74,6 +74,12 @@
         
       </div>
     </footer>
+    
+    
+    <a class="fixedButton" href>
+     <div class="roundedFixedBtn"><img src="<?= Yii::getAlias('@web/img/call.gif') ?>" /></div>
+    </a>
+    
 
     <script src="<?= Yii::getAlias('@web')  ?>/js/jquery-1.11.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>

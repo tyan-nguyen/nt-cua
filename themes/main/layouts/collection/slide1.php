@@ -7,7 +7,7 @@
   </div>
   <div class="image-overlay position-relative">
     <div class="product-image">
-      <img src="<?= Yii::getAlias('@web')  ?>/images/product-item5.jpg" alt="product-item" class="product-image img-fluid">
+      <img src="<?= Yii::getAlias('@web')  ?>/img/collection4.png" alt="product-item" class="product-image img-fluid">
       <div class="text-box box-slide position-absolute">
         <div class="text-content p-5 bg-light">
           <h3>Hệ cửa đi</h3>

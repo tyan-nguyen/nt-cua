@@ -27,7 +27,7 @@
                 <div class="col-md-12">
                   <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-2.png); background-repeat: no-repeat; background-position: right; height: 682px;">
                     <div class="banner-content padding-medium">
-                      <h1 class="display-1 text-uppercase text-dark pb-2">Cửa đi bốn cánh - Lam sáng</h1>
+                      <h1 class="display-1 text-uppercase text-dark pb-2">Cửa đi bốn cánh</h1>
                       <p>Cửa chính đóng vai trò rất quan trọng, chính vì thế việc lựa chọn kích thước cửa chính cũng rất quan trọng. Bởi vì việc lựa chọn sai sẽ anh hưởng rất đến nhiều vấn đề như: Phong thủy, thẩm mỹ, thiết kế tổng quan.
                       </p>                                         
                       <a href="shop.html" class="btn btn-medium btn-arrow position-relative mt-5">

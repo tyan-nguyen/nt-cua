@@ -13,3 +13,27 @@
 .widget-title{
 	color: #787d62 !important;
 }
+
+.fixedButton{
+    position: fixed;
+    bottom: 0px;
+    right: 0px; 
+    padding: 20px;
+    z-index: 9999;
+}
+.roundedFixedBtn{
+  height: 60px;
+  line-height: 80px;  
+  width: 60px;  
+  font-size: 2em;
+  font-weight: bold;
+  /*border-radius: 50%;*/
+  /*background-color: #4CAF50;*/
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+.roundedFixedBtn img{
+	border:1px solid #787d62;
+	border-radius: 50%;
+}

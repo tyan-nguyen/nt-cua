@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
-    <title>Furnics Furniture Store</title>
+    <title>Demo WEB Cửa Nhôm</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <!-- <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Poppins:wght@200;300;400;500&display=swap" rel="stylesheet"> -->
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&amp;family=Roboto+Serif:opsz@8..144&amp;display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=Montserrat:wght@500&family=Roboto+Serif:opsz@8..144&display=swap" rel="stylesheet">
 
     <!-- script
     ================================================== -->
@@ -80,7 +80,7 @@
           </svg>
         </div>
         <form id="search-form" class="text-center pt-3" action="" method="">
-          <input type="text" class="search-input fs-5 p-4 bg-transparent" placeholder="Search...">
+          <input type="text" class="search-input fs-5 p-4 bg-transparent" placeholder="Tìm kiếm...">
           <svg class="search" width="22" height="22">
             <use xlink:href="#search"></use>
           </svg>

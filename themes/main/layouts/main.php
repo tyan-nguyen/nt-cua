@@ -9,7 +9,7 @@
 
 <?php // $this->render('about') ?>
 
-<?= $this->render('feature') ?>
+<?= $this->render('product') ?>
 
 <?php //$this->render('quote') ?>
 

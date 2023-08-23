@@ -6,8 +6,10 @@
               
               <?= $this->render('collection/slide1') ?>
               <?= $this->render('collection/slide2') ?>
-              <?= $this->render('collection/slide3') ?>
+              
               <?= $this->render('collection/slide4') ?>
+              
+              <?= $this->render('collection/slide3') ?>
               
             </div>
           </div>

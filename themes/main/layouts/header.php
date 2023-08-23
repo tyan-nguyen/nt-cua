@@ -1,7 +1,7 @@
     <header id="header" class="site-header text-black">
       <nav id="header-nav" class="navbar navbar-expand-lg px-3 mb-3">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="<?= Yii::getAlias('@web/') ?>">
             <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png" class="logo">
           </a>
           <button class="navbar-toggler d-flex d-lg-none order-3 p-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,10 +22,10 @@
                   <a class="nav-link me-4 active dropdown-toggle" href="#billboard" id="dropdownPages" data-bs-toggle="dropdown"
                   aria-haspopup="true" aria-expanded="false">Trang chủ</a><ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
                     <li>
-                      <a href="index.html" class="dropdown-item item-anchor">Trang chủ</a>
+                      <a href="<?= Yii::getAlias('@web/') ?>" class="dropdown-item item-anchor">Trang chủ</a>
                     </li>
                     <li>
-                      <a href="home2.html" class="dropdown-item item-anchor">Trang chủ Nguyễn Trình</a>
+                      <a href="#" class="dropdown-item item-anchor">Trang chủ Nguyễn Trình</a>
                     </li>
                   </ul>
                 </li>
@@ -38,13 +38,13 @@
                   aria-haspopup="true" aria-expanded="false">Hệ cửa đi</a>
                   <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
                     <li>
-                      <a href="shop-sidebar.html" class="dropdown-item item-anchor">Cửa đi một cánh<span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Cửa đi một cánh</a>
                     </li>
                     <li>
-                      <a href="shop-four-column.html" class="dropdown-item item-anchor">Cửa đi hai cánh <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Cửa đi hai cánh</a>
                     </li>
                     <li>
-                      <a href="shop-four-column.html" class="dropdown-item item-anchor">Cửa đi bốn cánh <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Cửa đi bốn cánh</a>
                     </li>
                   </ul>
                 </li>
@@ -54,67 +54,36 @@
                   aria-haspopup="true" aria-expanded="false">Hệ cửa sổ</a>
                   <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
                     <li>
-                      <a href="shop-sidebar.html" class="dropdown-item item-anchor">Cửa sổ một cánh <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Cửa sổ một cánh</a>
                     </li>
                     <li>
-                      <a href="shop-four-column.html" class="dropdown-item item-anchor">Cửa sổ hai cánh <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Cửa sổ hai cánh</a>
                     </li>
                     <li>
-                      <a href="shop-four-column.html" class="dropdown-item item-anchor">Cửa sổ ba cánh <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Cửa sổ ba cánh</a>
                     </li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown me-4">
-                  <a class="nav-link dropdown-toggle" href="#" id="dropdownPages" data-bs-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">Blog</a>
-                  <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
-                    <li>
-                      <a href="blog-classic.html" class="dropdown-item item-anchor">Blog Classic <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="blog-grid-four-column.html" class="dropdown-item item-anchor">Blog 4 Column <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="blog-with-sidebar.html" class="dropdown-item item-anchor">Blog With Sidebar <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                  </ul>
+                
+                <li class="nav-item">
+                  <a class="nav-link me-4" href="#">Blogs</a>
                 </li>
+                
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="dropdownPages" data-bs-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">Pages</a>
+                  aria-haspopup="true" aria-expanded="false">Báo giá</a>
                   <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
                     <li>
-                      <a href="about-us.html" class="dropdown-item item-anchor">About <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Báo giá nhôm Xingfa</a>
                     </li>
                     <li>
-                      <a href="cart.html" class="dropdown-item item-anchor">Cart <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Báo giá lắp đặt cửa nhôm tại Trà Vinh</a>
                     </li>
                     <li>
-                      <a href="checkout.html" class="dropdown-item item-anchor">Checkout <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Báo giá lắp đặt cửa đi</a>
                     </li>
                     <li>
-                      <a href="contact.html" class="dropdown-item item-anchor">Contact <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="error-page.html" class="dropdown-item item-anchor">Error Page <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="faqs.html" class="dropdown-item item-anchor">FAQs <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="my-account.html" class="dropdown-item item-anchor">My Account <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="order-tracking.html" class="dropdown-item item-anchor">Order Tracking <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="wishlist.html" class="dropdown-item item-anchor">Wishlist <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="single-post.html" class="dropdown-item item-anchor">Single Post <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
-                    </li>
-                    <li>
-                      <a href="single-product.html" class="dropdown-item item-anchor">Single Product <span class="badge bg-secondary text-dark ms-2">PRO</span></a>
+                      <a href="#" class="dropdown-item item-anchor">Báo giá lắp đặt cửa sổ</a>
                     </li>
                   </ul>
                 </li>
