@@ -17,23 +17,28 @@
 .fixedButton{
     position: fixed;
     bottom: 0px;
-    right: 0px; 
+    left: 0px; 
     padding: 20px;
     z-index: 9999;
+    text-align: center;
+    
 }
 .roundedFixedBtn{
   height: 60px;
-  line-height: 80px;  
-  width: 60px;  
-  font-size: 2em;
+  line-height: 60px;  
+  width: 300px;  
+  font-size: 1.5em;
   font-weight: bold;
   /*border-radius: 50%;*/
   /*background-color: #4CAF50;*/
-  color: white;
+  color: black;
   text-align: center;
   cursor: pointer;
+  border:1px solid #212121;
+  border-radius: 10px;
+  background-color: white;
 }
 .roundedFixedBtn img{
-	border:1px solid #787d62;
-	border-radius: 50%;
+	/*border:1px solid #787d62;
+	border-radius: 50%;*/
 }

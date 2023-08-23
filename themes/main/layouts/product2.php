@@ -2,7 +2,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="display-header pb-3 d-flex justify-content-between flex-wrap col-md-12">
-            <h2 class="display-2 text-dark text-uppercase">Sản phẩm nổi bật</h2> 
+            <h2 class="display-2 text-dark text-uppercase">Sản phẩm bán chạy</h2> 
             <a href="#" class="btn btn-medium btn-arrow btn-normal position-relative">
               <span class="text-uppercase">Cửa hàng</span>            
               <svg class="arrow-right position-absolute" width="18" height="20">

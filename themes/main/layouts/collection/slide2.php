@@ -2,7 +2,7 @@
 <div class="product-card">
   <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
     <h3 class="card-title text-uppercase">
-      <a href="shop.html">HỆ CỬA SỔ</a>
+      <a href="#">HỆ CỬA SỔ</a>
     </h3>
   </div>
   <div class="image-overlay position-relative">
@@ -18,7 +18,7 @@
             <li>Cửa sổ 2 cánh</li>
             <li>Cửa sổ 2 cánh - Lam sáng</li>
           </ul>
-          <a href="shop.html" class="btn btn-medium btn-arrow position-relative mt-5">
+          <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
                         <span class="text-uppercase">Xem sản phẩm</span>            
                         <svg class="arrow-right position-absolute" width="18" height="20">
                           <use xlink:href="#arrow-right"></use>

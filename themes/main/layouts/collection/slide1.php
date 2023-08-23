@@ -2,7 +2,7 @@
 <div class="product-card">
   <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
     <h3 class="card-title text-uppercase">
-      <a href="shop.html">HỆ CỬA ĐI</a>
+      <a href="#">HỆ CỬA ĐI</a>
     </h3>
   </div>
   <div class="image-overlay position-relative">
@@ -19,7 +19,7 @@
           </ul>
           Khách hàng có thể tùy chọn loại cửa có lam sáng, cửa hắc, thủy lực tùy vào nhu cầu và thiết kế.
           <!-- <a href="#" class="btn btn-normal mt-3 btn-dm">Xem sản phẩm</a> -->
-          <a href="shop.html" class="btn btn-medium btn-arrow position-relative mt-5">
+          <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
                         <span class="text-uppercase">Xem sản phẩm</span>            
                         <svg class="arrow-right position-absolute" width="18" height="20">
                           <use xlink:href="#arrow-right"></use>

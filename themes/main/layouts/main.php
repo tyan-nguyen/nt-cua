@@ -17,7 +17,9 @@
 
 <?= $this->render('subscribe') ?>
 
-<?php //$this->render('trending') ?>
+<?php // $this->render('trending') ?>
+
+<?= $this->render('product2') ?>
 
 <?= $this->render('article') ?>
 
