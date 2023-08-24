@@ -63,6 +63,17 @@ class SiteController extends Controller
     {
         return $this->render('index');
     }
+    
+    /**
+     * Displays detail product page.
+     *
+     * @return string
+     */
+    public function actionProduct()
+    {
+        $this->layout = 'view-product';
+        return $this->render('view-product');
+    }
 
     /**
      * Login action.
