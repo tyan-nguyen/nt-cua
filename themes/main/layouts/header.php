@@ -10,6 +10,50 @@
             </svg>
           </button>
           <div class="offcanvas offcanvas-end" tabindex="-1" id="bdNavbar" aria-labelledby="bdNavbarOffcanvasLabel">
+            
+            
+            
+            <div style="width:100%" class="d-flex justify-content-end d-social">
+            	<ul class="list-unstyled fs-14 d-flex mb-0 justify-content-end top-header">
+            		<li class="icon-link">
+            			<img src="<?= Yii::getAlias('@web/img/icon-face.png') ?>" />
+            		</li>
+            		<li class="icon-link">
+            			<img src="<?= Yii::getAlias('@web/img/icon-ins.png') ?>" />
+            		</li>
+            		<li class="icon-link">
+            			<img src="<?= Yii::getAlias('@web/img/icon-youtube.png') ?>" />
+            		</li>
+            		<li class="icon-link">
+            			<img src="<?= Yii::getAlias('@web/img/icon-twitter.png') ?>" />
+            		</li>
+            		<!-- <li class="icon-link">
+            			|
+            		</li>
+            		<li class="icon-link">
+            			<a href="#">
+                          <svg class="user" width="18" height="18">
+                            <use xlink:href="#user"></use>
+                          </svg>
+                        </a>
+            		</li>
+            		<li>
+            			<a href="#">
+                          <svg class="cart" width="18" height="18">
+                            <use xlink:href="#cart"></use>
+                          </svg>
+                        </a>
+            		</li> -->
+            		<!-- <li>
+            			<a href="tel:02943840058 ">
+                            <span>0294.384.0058 </span>
+                        </a>
+            		</li> -->
+            	</ul>
+            </div>
+            
+            
+            	
             <div class="offcanvas-header px-4 pb-0">
               <a class="navbar-brand" href="#">
                 <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png?v=2" class="logo logo-header">
@@ -17,6 +61,7 @@
               <button type="button" class="btn-close btn-close-black" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdNavbar"></button>
             </div>
             <div class="offcanvas-body">
+            	
               <ul id="navbar" class="navbar-nav text-uppercase justify-content-end align-items-center flex-grow-1 pe-3">
                 <li class="nav-item dropdown">
                   <a class="nav-link me-4 active dropdown-toggle" href="#billboard" id="dropdownPages" data-bs-toggle="dropdown"
@@ -103,7 +148,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="cart.html">
+                        <a href="#">
                           <svg class="cart" width="18" height="18">
                             <use xlink:href="#cart"></use>
                           </svg>

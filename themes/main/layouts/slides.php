@@ -10,7 +10,7 @@
                       <h1 class="display-1 text-uppercase text-dark pb-2">Cửa thủy lực lùa</h1>
                       <p>Khi diện tích không gian của bạn bị hạn chế thì cửa kính thủy lực lùa sẽ là giải pháp tối ưu nhất bởi cửa kính cánh lùa có góc mở rộng nên phù hợp để đón nhiều gió và ánh sáng cho căn hộ của bạn mà không làm mất nhiều diện tích.</p>                      
                       <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
-                        <span class="text-uppercase">MUA NGAY</span>            
+                        <span class="text-uppercase">XEM NGAY</span>            
                         <svg class="arrow-right position-absolute" width="18" height="20">
                           <use xlink:href="#arrow-right"></use>
                         </svg>
@@ -31,7 +31,7 @@
                       <p>Cửa chính đóng vai trò rất quan trọng, chính vì thế việc lựa chọn kích thước cửa chính cũng rất quan trọng. Bởi vì việc lựa chọn sai sẽ anh hưởng rất đến nhiều vấn đề như: Phong thủy, thẩm mỹ, thiết kế tổng quan.
                       </p>                                         
                       <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
-                        <span class="text-uppercase">Mua ngay</span>            
+                        <span class="text-uppercase">Xem ngay</span>            
                         <svg class="arrow-right position-absolute" width="18" height="20">
                           <use xlink:href="#arrow-right"></use>
                         </svg>

@@ -92,5 +92,6 @@
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/plugins.js"></script>
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/script.js?v=1"></script>
+    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/custom.js"></script>
   </body>
 </html>
