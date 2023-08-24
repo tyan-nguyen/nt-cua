@@ -52,6 +52,8 @@ CSS STRUCTURE:
 
 /* Fonts */
 :root {
+  /*--body-font: "Montserrat", sans-serif;
+  --heading-font: "Fraunces", sans-serif;*/
   --body-font: "Inter", sans-serif;
   --heading-font: "Literata", sans-serif;
 }
