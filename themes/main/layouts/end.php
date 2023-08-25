@@ -2,6 +2,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="row d-flex flex-wrap justify-content-between">
+          	<?php /* ?>
             <div class="col-lg-3 col-sm-6 pb-3 pe-4">
               <div class="footer-menu text-center">
                 <img src="<?= Yii::getAlias('@web')  ?>/img/logo.png?v=2" alt="logo" class="pb-3 logo logo-footer" />
@@ -14,6 +15,19 @@
               </div>
               
             </div>
+            <?php */ ?>
+            
+            <div class="col-lg-3 col-sm-6">
+              <div class="footer-menu contact-item">
+                <h5 class="widget-title text-uppercase pb-2">Thông tin Liên hệ</h5>
+                <p><strong>Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình.</strong></p>
+                <p>Địa chỉ: Đường Nguyễn Đáng, khóm 10, P9, TP Trà Vinh, Tỉnh Trà Vinh</p>
+                <p>Điện thoại: <a href="">0294.384.0058</a> - <a href="">090 379 4531</a></p>
+                <p><a href="mailto:">Email: nguyentrinh40@yahoo.com</a></p>
+                
+              </div>
+            </div>
+            
             <div class="col-lg-2 col-sm-6 pb-3">
               <div class="footer-menu text-uppercase">
                 <h5 class="widget-title pb-2">Liên kết</h5>
@@ -36,6 +50,7 @@
                 </ul>
               </div>
             </div>
+            
             <div class="col-lg-2 col-sm-6 pb-3">
               <div class="footer-menu text-uppercase">
                 <h5 class="widget-title pb-2">MẠNG XÃ HỘI</h5>
@@ -57,14 +72,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
-              <div class="footer-menu contact-item">
-                <h5 class="widget-title text-uppercase pb-2">Thông tin Liên hệ</h5>
-                <p>Điện thoại: <a href="">0294.384.0058</a> - <a href="">090 379 4531</a></p>
-                <p><a href="mailto:">Email: nguyentrinh40@yahoo.com</a></p>
-                <p>Địa chỉ: Đường Nguyễn Đáng, khóm 10, P9, TP Trà Vinh, Tỉnh Trà Vinh</p>
-              </div>
-            </div>
+            
           </div>
         </div>
         

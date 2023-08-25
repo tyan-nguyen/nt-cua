@@ -9,17 +9,17 @@
 
 <?php // $this->render('about') ?>
 
-<div class="container-fluid border-top"></div>
+<!-- <div class="container-fluid border-top"></div> -->
 
-<?= $this->render('product') ?>
+<?php // $this->render('product') ?>
 
 <?php //$this->render('quote') ?>
 
 <div class="container-fluid border-top"></div>
 
-<?= $this->render('collection') ?>
+<?= $this->render('collection2') ?>
 
-<div class="container-fluid border-top"></div>
+<!-- <div class="container-fluid border-top"></div> -->
 
 <?= $this->render('subscribe') ?>
 
@@ -27,7 +27,7 @@
 
 <div class="container-fluid border-top"></div>
 
-<?= $this->render('product2') ?>
+<?php /* $this->render('product2') */ ?>
 
 <div class="container-fluid border-top"></div>
 

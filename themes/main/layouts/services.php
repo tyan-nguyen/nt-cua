@@ -1,4 +1,4 @@
-    <section id="company-services" class="padding-medium">
+    <section id="company-services" class="padding-small">
       <div class="container-fluid">
         <div class="row">
           <div class="col-lg-3 col-md-6 pb-3">

@@ -94,6 +94,81 @@
         },
       },
     });
+    
+    /* an add */
+    var swiper = new Swiper(".collection-swiper1", {
+      slidesPerView: 4,
+      spaceBetween: 10,
+      loop: false,
+      pagination: {
+        el: "#collections1 .swiper-pagination1",
+        clickable: true,
+      },
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        599: {
+          slidesPerView: 1,
+          spaceBetween: 10,
+        },
+        980: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+      },
+    });
+    
+    /* an add */
+    var swiper = new Swiper(".collection-swiper2", {
+      slidesPerView: 1,
+      spaceBetween: 10,
+      loop: false,
+      pagination: {
+        el: "#collections2 .swiper-pagination2",
+        clickable: true,
+      },
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        599: {
+          slidesPerView: 1,
+          spaceBetween: 10,
+        },
+        980: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+      },
+    });
+    
+    /* an add */
+    var swiper = new Swiper(".collection-swiper3", {
+      slidesPerView: 1,
+      spaceBetween: 10,
+      loop: false,
+      pagination: {
+        el: "#collections3 .swiper-pagination3",
+        clickable: true,
+      },
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        599: {
+          slidesPerView: 1,
+          spaceBetween: 10,
+        },
+        980: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+      },
+    });
 
 
     // product single page
