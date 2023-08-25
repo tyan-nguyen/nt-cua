@@ -46,7 +46,7 @@
             </div>
           </div>
           
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="container-fluid">
               <div class="row">
                 <div class="col-md-12">
@@ -107,7 +107,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div>-->
         </div>
       </div>
       <div class="swiper-pagination position-absolute"></div>

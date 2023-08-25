@@ -19,13 +19,13 @@
     });
 
     var swiper = new Swiper(".main-swiper", {
-      //speed: 1000,
+      speed: 1000,
       loop: true,
-      //autoplay: true,
-      pagination: {
+      autoplay: true,
+      /*pagination: {
         el: "#billboard .swiper-pagination",
         clickable: true,
-      },
+      },*/
     });
 
     $('.product-swiper').each(function () {

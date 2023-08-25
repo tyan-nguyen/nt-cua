@@ -123,7 +123,7 @@ header .top-header li.icon-link {
 #billboard .swiper-pagination {
     /*left: -36%;*/
     /*bottom: 300px;*/
-    bottom: 0px;
+    bottom: 100px;
 }
 
 .menu-sub2 li:first-child{
