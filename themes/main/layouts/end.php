@@ -99,7 +99,7 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/plugins.js"></script>
-    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/script.js?v=2"></script>
-    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/custom.js?v=2"></script>
+    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/script.js?v=3"></script>
+    <script type="text/javascript" src="<?= Yii::getAlias('@web')  ?>/js/custom.js?v=3"></script>
   </body>
 </html>

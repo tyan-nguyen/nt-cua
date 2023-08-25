@@ -121,8 +121,9 @@ header .top-header li.icon-link {
 }
 
 #billboard .swiper-pagination {
-    left: -39%;
-    bottom: 300px;
+    /*left: -36%;*/
+    /*bottom: 300px;*/
+    bottom: 0px;
 }
 
 .menu-sub2 li:first-child{
