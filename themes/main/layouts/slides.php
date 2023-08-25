@@ -8,7 +8,7 @@
                   <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-1.png?v=1); background-repeat: no-repeat; background-position: right; height: 602px;">
                     <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">CỬA NHÔM</h1>
-                      <p>Khi diện tích không gian của bạn bị hạn chế thì cửa kính thủy lực lùa sẽ là giải pháp tối ưu nhất bởi cửa kính cánh lùa có góc mở rộng nên phù hợp để đón nhiều gió và ánh sáng cho căn hộ của bạn mà không làm mất nhiều diện tích.</p>                      
+                      <p>Cửa nhôm kính không chỉ bền, đẹp, thích hợp với sự thay đổi của điều kiện khí hậu môi trường mà còn có tính chống nhiệt, chống nước, không bị ảnh hưởng bởi mưa gió như cửa nhựa hay bị bong tróc khi thấm nước mưa như cửa gỗ.</p>                      
                       <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
                         <span class="text-uppercase">XEM NGAY</span>            
                         <svg class="arrow-right position-absolute" width="18" height="20">
@@ -28,7 +28,7 @@
                   <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-2.png?v=2); background-repeat: no-repeat; background-position: right; height: 602px;">
                     <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">CỬA THÉP VÂN GỖ</h1>
-                      <p>Cửa chính đóng vai trò rất quan trọng, chính vì thế việc lựa chọn kích thước cửa chính cũng rất quan trọng. Bởi vì việc lựa chọn sai sẽ anh hưởng rất đến nhiều vấn đề như: Phong thủy, thẩm mỹ, thiết kế tổng quan.
+                      <p>Cửa thép vân gỗ là loại cửa được làm từ chất liệu thép mạ kết hợp với vân gỗ nhân tạo. Các vân gỗ này được tạo ra bằng cách áp dụng công nghệ sơn tĩnh điện kết hợp phủ vân lên bề mặt thép, tạo ra vẻ bề ngoài giống với gỗ thật.
                       </p>                                         
                       <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
                         <span class="text-uppercase">Xem ngay</span>            
@@ -49,7 +49,7 @@
                   <div class="banner-item" style="background-image: url(<?= Yii::getAlias('@web')  ?>/img/banner-2.png?v=2); background-repeat: no-repeat; background-position: right; height: 602px;">
                     <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">CỬA NHỰA</h1>
-                      <p>Cửa chính đóng vai trò rất quan trọng, chính vì thế việc lựa chọn kích thước cửa chính cũng rất quan trọng. Bởi vì việc lựa chọn sai sẽ anh hưởng rất đến nhiều vấn đề như: Phong thủy, thẩm mỹ, thiết kế tổng quan.
+                      <p>Cửa gỗ nhựa composite chịu nước với những ưu điểm vượt trội (100% chống nước, chống cong vênh, co ngót, mối mọt, bền đẹp, thẩm mỹ), chất lượng cao, giá thành hợp lý… là lý do khiến cho dòng sản phẩm này được người tiêu dùng tin tưởng và lựa chọn suốt thời gian qua.
                       </p>                                         
                       <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
                         <span class="text-uppercase">Xem ngay</span>            
