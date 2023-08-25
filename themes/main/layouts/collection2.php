@@ -1,7 +1,7 @@
 <div class="container-fluid">
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-lg-4 col-md-6">
  <section id="collections1" class="position-relative padding-small">
       <div class="container-fluid">
         <div class="row">
@@ -20,7 +20,7 @@
       <div class="swiper-pagination swiper-pagination1 position-absolute text-center"></div>
     </section>
 </div>
-<div class="col-md-4">
+<div class="col-lg-4 col-md-6">
  <section id="collections2" class="position-relative padding-small">
       <div class="container-fluid">
         <div class="row">
@@ -39,7 +39,7 @@
       <div class="swiper-pagination swiper-pagination2 position-absolute text-center"></div>
     </section>
 </div>   
-<div class="col-md-4">
+<div class="col-lg-4 col-md-6">
  <section id="collections3" class="position-relative padding-small">
       <div class="container-fluid">
         <div class="row">

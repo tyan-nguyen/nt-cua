@@ -127,7 +127,6 @@ header .top-header li.icon-link {
 
 .menu-sub2 li:first-child{
 	font-weight: bold;
-	font-size: 120%;
 	padding-left: 15px;
 	color: var(--bs-primary);
 	/*text-align: center;*/
