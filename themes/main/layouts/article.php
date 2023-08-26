@@ -1,5 +1,5 @@
 <section id="latest-blog">
-      <div class="container-fluid  padding-small">
+      <div class="container-fluid  container-fluid-extend  padding-small" style="padding-left:2px;padding-right:2px;">
         <div class="row">
           <div class="col-md-12">
             <div class="display-header d-flex flex-wrap justify-content-between pb-3">

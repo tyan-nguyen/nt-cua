@@ -115,6 +115,25 @@
                   </ul>
                 </li>
                 
+                 <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="dropdownPages" data-bs-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">Đại lý</a>
+                  <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
+                    <li>
+                      <a href="#" class="dropdown-item item-anchor">Đại lý 1</a>
+                    </li>
+                    <li>
+                      <a href="#" class="dropdown-item item-anchor">Đại lý 2</a>
+                    </li>
+                    <li>
+                      <a href="#" class="dropdown-item item-anchor">Đại lý 3</a>
+                    </li>
+                    <li>
+                      <a href="#" class="dropdown-item item-anchor">Đại lý 4</a>
+                    </li>
+                  </ul>
+                </li>
+                
                  <li class="nav-item">
                   <a class="nav-link me-4" href="#">Liên hệ</a>
                 </li>
