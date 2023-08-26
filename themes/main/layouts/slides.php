@@ -3,7 +3,7 @@
         <div class="swiper-wrapper">
         
         <div class="swiper-slide">
-            <div class="container-fluid">
+            <div class="container-fluid container-fluid-extend">
               <div class="row">
                 <div class="col-md-12">
                   <div class="banner-item" style="">
@@ -25,7 +25,7 @@
           </div>
           
           <div class="swiper-slide">
-            <div class="container-fluid">
+            <div class="container-fluid container-fluid-extend">
               <div class="row">
                 <div class="col-md-12">
                   <div class="banner-item" style="">
