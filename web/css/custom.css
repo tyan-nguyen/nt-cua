@@ -247,12 +247,12 @@ header .top-header li.icon-link {
 		width: 20%;
 		padding-right:75px;
 		justify-content: flex-end!important;
-		background-image: url(/img/bg-logo.png?v=2);
+		background-image: url(/img/bg-logo.png?v=3);
 		background-repeat: no-repeat; 
 		background-position: right;
 	}
 	#header{
-		background-image: url(/img/bg-body.png?v=2); 
+		background-image: url(/img/bg-body.png?v=3); 
 		background-repeat: repeat-x; 
 		background-position: right;
 	}
@@ -269,7 +269,7 @@ header .top-header li.icon-link {
 #footer{
 	/*background-color: #46aad0;*/
 	background-color: #133042;
-	background-image: url(/img/bg-footer.png?v=0); 
+	background-image: url(/img/bg-footer.png?v=1); 
 	color: white;
 }
 
