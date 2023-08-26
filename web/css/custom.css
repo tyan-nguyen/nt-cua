@@ -11,6 +11,10 @@
 	padding: 5px;
 }
 
+#menu-top ul{
+		background-color: #133042;
+	}
+
 #menu-main-logo{
 	width: 60%;
 	padding-right:0px;
@@ -54,6 +58,16 @@
 #header-nav{
 	padding-left: 0px!important;
     padding-right: 0px!important;;
+}
+
+#menu-top .icon-link, #menu-top .icon-link a{
+	color:white;
+	
+}
+
+#menu-top ul{
+	display: block !important;
+	width: 100%;
 }
 
 
@@ -112,7 +126,8 @@
 .navbar-nav .nav-item a.nav-link {
   padding-left: 20px;
   padding-right: 20px;
-  color:white;
+  /*color:white;*/
+  color: var(--bs-primary);
 }
 
 
@@ -121,16 +136,21 @@
   background-color: var(--bs-primary); 
 }*/
 
-.navbar-nav .nav-item a.nav-link:active, .navbar-nav .nav-item a.nav-link:focus, .navbar-nav .nav-item a.nav-link:hover {
-  /*color: var(--bs-secondary);*/
-  color:white !important;
-  background-color: var(--bs-primary); 
-  /*border-radius: 10px;*/
+.navbar-nav .nav-item a.nav-link{
+	  font-weight: bold !important;
 }
 
-.navbar-nav .nav-item a.active{
-	color:white !important;
+.navbar-nav .nav-item a.nav-link:active, .navbar-nav .nav-item a.nav-link:focus, .navbar-nav .nav-item a.nav-link:hover {
+  color: var(--bs-secondary);
+  /*color:white !important;*/
+  background-color: var(--bs-primary); 
+  /*border-radius: 10px;*/
+
 }
+
+/*.navbar-nav .nav-item a.active{
+	color:white !important;
+}*/
 
 #header-nav{
 	padding-top: 0px;
@@ -160,11 +180,17 @@
 	display: none !important;
 }
 
+.fixed-top a.nav-link {
+  color: white !important;
+}
+
 header .top-header li:first-child {
     margin-left: 0;
 }
 header .top-header li.icon-link {
     margin: 0 5px;
+    padding-right:10px;
+    font-size: 90%;
 }
 
 .dropdown-menu {
@@ -230,4 +256,28 @@ header .top-header li.icon-link {
 		background-repeat: repeat-x; 
 		background-position: right;
 	}
+	
+	#menu-top ul{
+		background-color: none;
+		display: flex !important;
+		justify-content: center!important;
+	}
+
+}
+
+
+#footer{
+	/*background-color: #46aad0;*/
+	background-color: #133042;
+	background-image: url(/img/bg-footer.png?v=0); 
+	color: white;
+}
+
+#footer a{
+	color: white;
+}
+
+#footer .widget-title{
+	font-weight: bold;
+	color: white !important;
 }

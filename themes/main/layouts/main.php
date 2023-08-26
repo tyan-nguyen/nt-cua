@@ -21,11 +21,11 @@
 
 <!-- <div class="container-fluid border-top"></div> -->
 
-<?= $this->render('subscribe') ?>
+<?php // $this->render('subscribe') ?>
 
 <?php // $this->render('trending') ?>
 
-<div class="container-fluid border-top"></div>
+<!-- <div class="container-fluid border-top"></div> -->
 
 <?php /* $this->render('product2') */ ?>
 

@@ -1,9 +1,27 @@
  <div id="menu-top" class="d-flex justify-content-center d-social">
             	<ul class="list-unstyled fs-14 d-flex mb-0 justify-content-end top-header">
             		<li class="icon-link">
-            			<img src="<?= Yii::getAlias('@web/img/icon-face.png') ?>" />
+						<a href="tel:02943840058">
+							<img src="<?= Yii::getAlias('@web/img/icon-call.png') ?>" /> 0294.384.0058
+						</a>
+            			
             		</li>
             		<li class="icon-link">
+            			<img src="<?= Yii::getAlias('@web/img/icon-email.png') ?>" /> nguyentrinh40@yahoo.com
+            		</li>
+            		<li class="icon-link">
+            			<a href="fb.com/100094631493232">
+            				<img src="<?= Yii::getAlias('@web/img/icon-face.png') ?>" /> Fb.com/nguyentrinhtravinh
+            			</a>
+            		</li>
+            		
+            		<li class="icon-link">
+            			<a href="#">
+            				<img src="<?= Yii::getAlias('@web/img/icon-appoinment.png') ?>" /> Đặt lịch hẹn
+            			</a>
+            		</li>
+            		
+            		<!-- <li class="icon-link">
             			<img src="<?= Yii::getAlias('@web/img/icon-ins.png') ?>" />
             		</li>
             		<li class="icon-link">
@@ -11,7 +29,8 @@
             		</li>
             		<li class="icon-link">
             			<img src="<?= Yii::getAlias('@web/img/icon-twitter.png') ?>" />
-            		</li>
+            		</li> -->
+            		
             		<!-- <li class="icon-link">
             			|
             		</li>

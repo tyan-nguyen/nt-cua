@@ -1,10 +1,10 @@
 <div class="swiper-slide overflow-hidden">
 <div class="product-card">
-  <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
+  <!-- <div class="card-detail d-flex justify-content-between align-items-baseline pt-3">
     <h3 class="card-title text-uppercase">
       <a href="#">CỬA NHỰA</a>
     </h3>
-  </div>
+  </div> -->
   <div class="image-overlay position-relative">
     <div class="product-image">
       <img src="<?= Yii::getAlias('@web')  ?>/img/product-item3.png" alt="product-item" class="product-image img-fluid">
