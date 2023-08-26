@@ -19,9 +19,9 @@
     });
 
     var swiper = new Swiper(".main-swiper", {
-      //speed: 1000,
+      speed: 1000,
       loop: true,
-      //autoplay: true,
+      autoplay: true,
       /*pagination: {
         el: "#billboard .swiper-pagination",
         clickable: true,
