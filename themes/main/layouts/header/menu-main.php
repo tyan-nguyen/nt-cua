@@ -31,6 +31,39 @@
                     	</div> -->
                     	
                     	<ul class="list-unstyled menu-sub2" aria-labelledby="dropdownPages">
+                    		<li>Hệ cửa nhôm</li>
+                            <li>
+                              <a href="#" class="dropdown-item item-anchor">Cửa đi</a>
+                            </li>
+                            <li>
+                              <a href="#" class="dropdown-item item-anchor">Cửa sổ</a>
+                            </li>
+                          </ul>
+                          
+                          <ul class="list-unstyled  menu-sub2" aria-labelledby="dropdownPages">
+                          	<li>Hệ cửa thép vân gỗ</li>
+                            <li>
+                              <a href="#" class="dropdown-item item-anchor">Cửa đi</a>
+                            </li>
+                            <li>
+                              <a href="#" class="dropdown-item item-anchor">Cửa sổ</a>
+                            </li>
+                            
+                          </ul>
+                          
+                          <ul class="list-unstyled  menu-sub2" aria-labelledby="dropdownPages">
+                          	<li>Hệ cửa nhựa</li>
+                            <li>
+                              <a href="#" class="dropdown-item item-anchor">Cửa đi</a>
+                            </li>
+                            <li>
+                              <a href="#" class="dropdown-item item-anchor">Cửa sổ</a>
+                            </li>
+                            
+                          </ul>
+                          
+                    	
+                    	<!-- <ul class="list-unstyled menu-sub2" aria-labelledby="dropdownPages">
                     		<li>Hệ cửa đi</li>
                             <li>
                               <a href="#" class="dropdown-item item-anchor">Cửa nhôm</a>
@@ -54,7 +87,7 @@
                             <li>
                               <a href="#" class="dropdown-item item-anchor">Cửa nhựa</a>
                             </li>
-                          </ul>
+                          </ul> -->
                     	
                     </li>
                   </ul>
@@ -134,9 +167,9 @@
                   </ul>
                 </li>
                 
-                 <li class="nav-item">
+                <!--  <li class="nav-item">
                   <a class="nav-link me-4" href="#">Liên hệ</a>
-                </li>
+                </li> -->
                 
                 <li class="nav-item">
                   <div class="user-items ps-5">

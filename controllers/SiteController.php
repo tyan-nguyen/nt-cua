@@ -74,6 +74,17 @@ class SiteController extends Controller
         $this->layout = 'view-product';
         return $this->render('view-product');
     }
+    
+    /**
+     * Displays detail product page.
+     *
+     * @return string
+     */
+    public function actionSinglePost()
+    {
+        $this->layout = 'view-post';
+        return $this->render('view-post');
+    }
 
     /**
      * Login action.

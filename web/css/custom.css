@@ -173,6 +173,9 @@
 
 .fixed-top .logo-header{
 	height:50px;
+}
+/*for mobile*/
+.fixed-top .logo-header{
 	padding-top:0.5rem;
 }
 
@@ -242,7 +245,7 @@ header .top-header li.icon-link {
 
 @media (min-width: 992px){
 	.has-menu-sub2{
-		width:400px;
+		width:600px;
 	}
 	.menu-sub2{
 		float:left;
@@ -303,6 +306,10 @@ header .top-header li.icon-link {
 	.fixed-top a.nav-link {
 	  color: white !important;
 	}
+	
+	.fixed-top .logo-header{
+		padding-top:0rem;/*for desktop*/
+	}
 
 }
 
@@ -356,5 +363,14 @@ header .top-header li.icon-link {
 /*blog*/
 #latest-blog{
 	background-color: #efefef;
+}
+.bg-building{
+	background-color: #efefef;
+	background-image: url(/img/bg-hero.png?v=0); 
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.bg-building, .bg-building a{
+	color: white;
 }
 /*end blog*/
