@@ -7,7 +7,7 @@
 }
 #menu-top{
 	width:100%;
-	/*background-color: green;*/
+	background-color: #2b4f65;
 	padding: 2px;
 }
 
@@ -173,6 +173,7 @@
 
 .fixed-top .logo-header{
 	height:50px;
+	padding-top:0.5rem;
 }
 
 .fixed-top .d-social{
@@ -180,8 +181,12 @@
 }
 
 .fixed-top a.nav-link {
-  color: white !important;
+  /*color: white !important;*/
  
+}
+
+.fixed-top #header-nav{
+	height:60px;
 }
 
 .navbar-nav .nav-item a.nav-link{
@@ -295,7 +300,9 @@ header .top-header li.icon-link {
 		/* padding-top: 0px;
 		padding-bottom: 0px; */
 	}
-	
+	.fixed-top a.nav-link {
+	  color: white !important;
+	}
 
 }
 

@@ -1,4 +1,4 @@
-    <footer id="footer" class="overflow-hidden padding-large">
+    <footer id="footer" class="overflow-hidden padding-medium">
       <div class="container-fluid">
         <div class="row">
           <div class="row d-flex flex-wrap justify-content-between">
