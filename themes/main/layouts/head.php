@@ -10,15 +10,15 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/style.css?v=9">
-    <link rel="stylesheet" type="text/css" href="/css/custom.css?v=10">
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=11">
+    <link rel="stylesheet" type="text/css" href="/css/custom.css?v=11">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <!-- <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Poppins:wght@200;300;400;500&display=swap" rel="stylesheet"> -->
 	<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=Montserrat:wght@500&family=Roboto+Serif:opsz@8..144&family=Inter:wght@500&family=Literata:opsz,wght@7..72,500&display=swap" rel="stylesheet">
 	<!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"> -->
-	
+	<link rel="stylesheet" type="text/css" href="/css/fontawesome-free-6.4.2-web/css/all.min.css">
     <!-- script
     ================================================== -->
     <script src="/js/modernizr.js"></script>

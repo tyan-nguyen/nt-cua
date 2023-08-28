@@ -25,6 +25,7 @@ CSS STRUCTURE:
 --------------------------------------------------------------*/
 :root {
   --accent-color: #0d0d0d;
+ /* --accent-color: #efefef;*/
   --bs-gray-100: #f3f3f3;
   --bs-gray-200: #e7e5e2;
   --bs-primary: #02587b;

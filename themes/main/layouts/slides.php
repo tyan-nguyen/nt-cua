@@ -7,7 +7,7 @@
               <div class="row">
                 <div class="col-md-12">
                   <div class="banner-item" style="">
-                  	<img src="<?= Yii::getAlias('@web')  ?>/img/banner0.jpg?v=0" width="100%" />
+                  	<img src="<?= Yii::getAlias('@web')  ?>/img/banner0.jpg?v=2" width="100%" />
                     <!-- <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">CỬA NHÔM</h1>
                       <p>Cửa nhôm kính không chỉ bền, đẹp, thích hợp với sự thay đổi của điều kiện khí hậu môi trường mà còn có tính chống nhiệt, chống nước, không bị ảnh hưởng bởi mưa gió như cửa nhựa hay bị bong tróc khi thấm nước mưa như cửa gỗ.</p>                      
@@ -29,7 +29,7 @@
               <div class="row">
                 <div class="col-md-12">
                   <div class="banner-item" style="">
-                  	<img src="<?= Yii::getAlias('@web')  ?>/img/banner01.jpg?v=0" width="100%" />
+                  	<img src="<?= Yii::getAlias('@web')  ?>/img/banner01.jpg?v=2" width="100%" />
                     <!-- <div class="banner-content padding-small">
                       <h1 class="display-1 text-uppercase text-dark pb-2">CỬA NHÔM</h1>
                       <p>Cửa nhôm kính không chỉ bền, đẹp, thích hợp với sự thay đổi của điều kiện khí hậu môi trường mà còn có tính chống nhiệt, chống nước, không bị ảnh hưởng bởi mưa gió như cửa nhựa hay bị bong tróc khi thấm nước mưa như cửa gỗ.</p>                      
@@ -45,6 +45,7 @@
               </div>
             </div>
           </div>
+          
           
           <!-- <div class="swiper-slide">
             <div class="container-fluid">

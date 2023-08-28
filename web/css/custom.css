@@ -255,12 +255,12 @@ header .top-header li.icon-link {
 		width: 20%;
 		padding-right:75px;
 		justify-content: flex-end!important;
-		background-image: url(/img/bg-logo.png?v=3);
+		background-image: url(/img/bg-logo.png?v=4);
 		background-repeat: no-repeat; 
 		background-position: right;
 	}
 	#header{
-		background-image: url(/img/bg-body.png?v=3); 
+		background-image: url(/img/bg-body.png?v=4); 
 		background-repeat: repeat-x; 
 		background-position: right;
 	}
@@ -275,8 +275,14 @@ header .top-header li.icon-link {
 	#footer{
 		/*background-color: #46aad0;*/
 		background-color: #133042;
-		background-image: url(/img/bg-footer.png?v=1); 
+		background-image: url(/img/bg-footer.png?v=4); 
 		color: white;
+		background-size: 100% 100% !important;
+	}
+	
+	#company-services{
+		background-color: #efefef;
+		background-image: url(/img/bg-services.png?v=4); 
 		background-size: 100% 100% !important;
 	}
 	
@@ -285,7 +291,7 @@ header .top-header li.icon-link {
 
 #footer{
 		background-color: #133042;
-		background-image: url(/img/bg-footer.png?v=1); 
+		background-image: url(/img/bg-footer.png?v=4); 
 		color: white;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -301,3 +307,32 @@ header .top-header li.icon-link {
 	font-weight: bold;
 	color: white !important;
 }
+
+#footer .contact-item a:hover{
+	color:red;
+}
+
+/*company-services*/
+#company-services{
+	background-color: #efefef;
+	background-image: url(/img/bg-services.png?v=4); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.icon-box .icon-box-content {
+    width: 100%;
+    margin-top:20px;
+}
+
+.icon-box-content .card-title {
+    color: var(--bs-primary) !important;
+}
+
+.col-serv{
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+/*end company-services*/
+
