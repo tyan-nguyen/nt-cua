@@ -17,7 +17,7 @@
             		
             		<li class="icon-link">
             			<a href="#">
-            				<img src="<?= Yii::getAlias('@web/img/icon-appoinment.png') ?>" /> Đặt lịch hẹn
+            				<img src="<?= Yii::getAlias('@web/img/icon-appoinment.png?v=1') ?>" /> Đặt lịch hẹn
             			</a>
             		</li>
             		
