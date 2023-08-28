@@ -1,4 +1,4 @@
-<div class="container-fluid  container-fluid-extend padding-small">
+<div class="container-fluid  container-fluid-extend padding-medium">
 
 <div class="row">
 <div class="col-lg-4 col-md-6">

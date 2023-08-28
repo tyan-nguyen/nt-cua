@@ -20,10 +20,10 @@
             <div class="col-lg-3 col-sm-6">
               <div class="footer-menu contact-item">
                 <h5 class="widget-title text-uppercase pb-2">Thông tin Liên hệ</h5>
-                <a href=""><p><strong>Doanh nghiệp tư nhân Sản xuất – Thương Mại Nguyễn Trình.</strong></p></a>
-                 <a href=""><p><i class="fa-solid fa-thumbtack"></i>&nbsp; Địa chỉ: Đường Nguyễn Đáng, khóm 10, P9, TP Trà Vinh, Tỉnh Trà Vinh</p></a>
-                <a href=""><p><i class="fa-solid fa-phone"></i>&nbsp; Điện thoại: 0294.384.0058 - 090 379 4531</p></a>
-                <a href="mailto:"><p><i class="fa-solid fa-envelope"></i>&nbsp; Email: nguyentrinh40@yahoo.com</p></a>
+               
+                 <a href=""><p><i class="fa-solid fa-thumbtack"></i>&nbsp;Đường Nguyễn Đáng, khóm 10, P9, TP Trà Vinh, Tỉnh Trà Vinh</p></a>
+                <a href=""><p><i class="fa-solid fa-phone"></i>&nbsp;0294.384.0058 - 090 379 4531</p></a>
+                <a href="mailto:"><p><i class="fa-solid fa-envelope"></i>&nbsp;nguyentrinh40@yahoo.com</p></a>
                 
               </div>
             </div>

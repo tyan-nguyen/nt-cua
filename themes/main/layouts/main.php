@@ -15,7 +15,7 @@
 
 <?php //$this->render('quote') ?>
 
-<div class="container-fluid border-top"></div>
+<!-- <div class="container-fluid border-top"></div> -->
 
 <?= $this->render('collection2') ?>
 
@@ -29,7 +29,7 @@
 
 <?php /* $this->render('product2') */ ?>
 
-<div class="container-fluid border-top"></div>
+<!-- <div class="container-fluid border-top"></div> -->
 
 <?= $this->render('article') ?>
 
