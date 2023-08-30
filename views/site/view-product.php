@@ -228,7 +228,7 @@
               	<div class="description-content">
                 <h2>Chi tiết sản phẩm</h2>
                 <p>Cửa đi 2 cánh nhôm Xingfa là một trong những loại cửa bền bỉ, được các gia đình Việt ưu tiên lựa chọn hiện nay. Không chỉ sở hữu vẻ đẹp sang trọng, thời thượng mà cửa loại này còn mang ý nghĩa phong thủy sâu sắc.</p>
-                <p>Với dòng cửa đi 2 cánh nhôm xingfa Bình Dương được thiết kế tính tế, sang trọng giúp không gian ngồi nhà của bạn luôn đẹp. Đặc biệt, cửa đi 2 cánh nhôm xingfa có bảo vệ còn được tích hợp tính năng an toàn chống trộm.
+                <p>Với dòng cửa đi 2 cánh nhôm xingfa tại DNTN SX-TM Nguyễn Trình được thiết kế tính tế, sang trọng giúp không gian ngồi nhà của bạn luôn đẹp. Đặc biệt, cửa đi 2 cánh nhôm xingfa có bảo vệ còn được tích hợp tính năng an toàn chống trộm.
 Cửa đi 2 cánh nhôm xingfa được bố trí các vị trí như cửa ra ban công, cửa phòng, cửa nhà vệ sinh. Chúng được sản xuất từ loại nhôm cao cấp Xingfa, với khả năng chịu lực cực tốt và độ bền lớn. </p>
 				<p class="text-center">
 					<img src="<?= Yii::getAlias('@web') ?>/posts/cua-di-2-canh-1.jpg" />
@@ -285,7 +285,7 @@ Cửa đi 2 cánh nhôm xingfa được bố trí các vị trí như cửa ra b
               	<h3>1. Phương thức mua hàng:</h3>
 				<p>Quý khách có thể đến trực tiếp địa chỉ showroom xingfa glass để xem và mua hàng.
 Quý khách đặt mua trực tiếp trên website đơn hàng sẽ được chúng tôi xử lý gọi lại ngay cho bạn khi nhận được.
-Qúy khách có thể đặt mua thông qua HOTLINE: 0979.672.960 và thanh toán bằng phương thức chuyển khoản
+Qúy khách có thể đặt mua thông qua HOTLINE: 0294.384.0058 và thanh toán bằng phương thức chuyển khoản hoặc thanh toán bằng tiền mặt trực tiếp tại cửa hàng.
 </p>
 <h3>2. Thanh Toán:</h3>
 <ul>
@@ -294,8 +294,8 @@ Qúy khách có thể đặt mua thông qua HOTLINE: 0979.672.960 và thanh toá
 <li>Đối với một số sản phẩm làm theo yêu cầu quý khách vui lòng đặt cọc trước một số tiền quy định theo hợp đồng ký kết, sau khi nhận hàng Quý khách thanh toán nốt số tiền còn lại.</li>
 </ul>
 <h3>3. Vận chuyển</h3>
-<p>Xingfa Glass sẽ giao hàng tận nơi trên phạm vi toàn quốc.
-Phí vận chuyển: Miễn phí khu vực Hà Nội. Các khu vực khác tùy theo bán kính sẽ theo thỏa thuận. Hoặc theo Hợp đồng ký kết thực tế.</p>
+<p>DNTN SX-TM Nguyễn Trình sẽ giao hàng tận nơi trên phạm vi tỉnh Trà Vinh và các tỉnh lân cận.
+Phí vận chuyển: Miễn phí khu vực tỉnh Trà Vinh. Các khu vực khác tùy theo bán kính sẽ theo thỏa thuận. Hoặc theo Hợp đồng ký kết thực tế.</p>
 <p>Mọi vấn đề phát sinh khi mua hàng, thanh toán và vận chuyển quý khách vui lòng liên lạc với chúng tôi</p>
               	<h2>Chính sách bảo hành</h2>
               	
@@ -303,8 +303,8 @@ Phí vận chuyển: Miễn phí khu vực Hà Nội. Các khu vực khác tùy 
 
                <p> Thời điểm bảo hành bắt đầu được tính từ ngày bàn giao hết thời hạn sau:</p>
                 <ul>
-                <li>05 năm cho cửa nhôm xingfa nhập khẩu Tem đỏ Quảng Đông</li>
-                <li>02 năm cho phụ kiện keo, 03 năm cho phụ kiện cửa nhôm Kinlong…</li>
+                <li>05 - 10 năm cho cửa nhôm xingfa nhập khẩu Tem đỏ Quảng Đông</li>
+                <li>02 năm cho phụ kiện keo, 03 năm cho phụ kiện cửa nhôm</li>
                 </ul>
                <h3>2. Phạm vi bảo hành:</h3>
                 
@@ -312,16 +312,15 @@ Phí vận chuyển: Miễn phí khu vực Hà Nội. Các khu vực khác tùy 
                 
                <h3>3. Phạm vi không bảo hành gồm những điều sau:</h3>
                 
-               <p> – Sản phẩm bị biến dạng do để các nguồn nhiệt độ môi trư­ờng trên 600C gần sản phẩm uPVC hoặc sản phẩm bị tiếp xúc với các loại axit và hoá chất đặc biệt làm ảnh hưởng và biến đổi đặc tính sản phẩm của thanh uPVC.</p>
+               <p> – Sản phẩm bị biến dạng do để các nguồn nhiệt độ môi trường trên 600C gần sản phẩm uPVC hoặc sản phẩm bị tiếp xúc với các loại axit và hoá chất đặc biệt làm ảnh hưởng và biến đổi đặc tính sản phẩm của thanh uPVC.</p>
                 
-               <p> – Sản phẩm uPVC, hộp kính và phụ kiện kim khí bị hỏng hóc do lỗi của ngư­ời sử dụng hoặc cố ý gây hỏng, sử dụng các hoá chất không đúng với hướng dẫn của nhà sản xuất, vận hành sai quy tắc hư­ớng dẫn, ngư­ời sử dụng tự ý chỉnh sửa lấy. Cửa đư­ợc lắp tại các môi trường ăn mòn kim loại nhưng sử dụng phụ kiện kim khí không thích hợp mặc dù đã đư­ợc Naviwindow khuyến cáo không nên sử dụng.</p>
+               <p> – Sản phẩm uPVC, hộp kính và phụ kiện kim khí bị hỏng hóc do lỗi của ngư­ời sử dụng hoặc cố ý gây hỏng, sử dụng các hoá chất không đúng với hướng dẫn của nhà sản xuất, vận hành sai quy tắc hướng dẫn, người sử dụng tự ý chỉnh sửa lấy. Cửa được lắp tại các môi trường ăn mòn kim loại nhưng sử dụng phụ kiện kim khí không thích hợp mặc dù đã được DNTN SX-TM Nguyễn Trình khuyến cáo không nên sử dụng.</p>
                 
-                <p>Tự ý thay đổi, lắp đặt thêm vào hoặc bớt đi nguyên bản của sản phẩm và điều kiện đã lắp đặt.
-                Trong các trư­ờng hợp bất khả kháng nh­ư chiến tranh, thiên tai, hoả hoạn v.v.</p>
+                <p>Tự ý thay đổi, lắp đặt thêm vào hoặc bớt đi nguyên bản của sản phẩm và điều kiện đã lắp đặt.</p>
                 
                 <h3>4. Hỗ trợ khách hàng</h3>
                 
-               <p> Xingfa Thủ Đô sẽ hỗ trợ sửa chữa, thay thế sản phẩm bị hỏng hóc, h­ư hại không thuộc phạm vi trách nhiệm bảo hành. Toàn bộ các chi phí sửa chữa thay thế như nhân công, chi phí sản xuất, vật t­ư đóng gói, vận chuyển, đi lại, ăn ở của cán bộ kỹ thuật khách hàng phải thanh toán theo báo giá sửa chữa.</p>
+               <p>DNTN SX-TM Nguyễn Trình sẽ hỗ trợ sửa chữa, thay thế sản phẩm bị hỏng hóc, hư hại (không thuộc phạm vi từ chối trách nhiệm bảo hành). Toàn bộ các chi phí sửa chữa thay thế như nhân công, chi phí sản xuất, vật tư đóng gói, vận chuyển, đi lại, ăn ở của cán bộ kỹ thuật khách hàng phải thanh toán theo báo giá sửa chữa (nếu có).</p>
                
                   </div><!-- description content -->
               </div>

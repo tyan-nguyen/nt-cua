@@ -3,7 +3,7 @@
           <div class="col-md-12">
             <section class="hero-section d-flex align-items-center">
               <div class="container-fluid">
-                <div class="row">
+                <div class="row text-center">
                   <div class="hero-content align-items-center">
                     <h1 class="display-1 hero-title">Đại lý cửa nhôm Xingfa chính hãng tại Trà Vinh</h1>
                       <div class="breadcrumbs">

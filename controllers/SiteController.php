@@ -69,6 +69,33 @@ class SiteController extends Controller
      *
      * @return string
      */
+    public function actionProducts()
+    {
+        $this->layout = 'view-product';
+        return $this->render('view-product-list');
+    }
+    
+    /**
+     * Displays detail product page.
+     *
+     * @return string
+     */
+    public function actionProductss($id=NULL)
+    {
+        $this->layout = 'view-product';
+        if($id==1){
+            $title = 'Hệ cửa đi';
+        } else {
+            $title = 'Hệ cửa sổ';
+        }
+        return $this->render('view-product-list-one', compact('title', 'id'));
+    }
+    
+    /**
+     * Displays detail product page.
+     *
+     * @return string
+     */
     public function actionProduct()
     {
         $this->layout = 'view-product';

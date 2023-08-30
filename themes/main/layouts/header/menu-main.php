@@ -6,7 +6,7 @@
                       <a href="<?= Yii::getAlias('@web/') ?>" class="dropdown-item item-anchor">Trang chủ</a>
                     </li>
                     <li>
-                      <a href="#" class="dropdown-item item-anchor">Trang chủ Nguyễn Trình</a>
+                      <a href="http://nguyentrinhtravinh.com.vn" class="dropdown-item item-anchor">Trang chủ Nguyễn Trình</a>
                     </li>
                   </ul>
                 </li>
@@ -33,10 +33,10 @@
                     	<ul class="list-unstyled menu-sub2" aria-labelledby="dropdownPages">
                     		<li>Hệ cửa nhôm</li>
                             <li>
-                              <a href="#" class="dropdown-item item-anchor">Cửa đi</a>
+                              <a href="<?= Yii::getAlias('@web/site/productss?id=1') ?>" class="dropdown-item item-anchor">Cửa đi</a>
                             </li>
                             <li>
-                              <a href="#" class="dropdown-item item-anchor">Cửa sổ</a>
+                              <a href="<?= Yii::getAlias('@web/site/productss?id=2') ?>" class="dropdown-item item-anchor">Cửa sổ</a>
                             </li>
                           </ul>
                           

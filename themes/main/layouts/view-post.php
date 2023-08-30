@@ -4,8 +4,7 @@
 <?= $this->render('header') ?>
 
 
-
-			<?= $content ?>
+<?= $content ?>
 		
 
 <?= $this->render('brand') ?>

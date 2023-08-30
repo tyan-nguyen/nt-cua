@@ -440,6 +440,10 @@ header .top-header li.icon-link {
 	border: 2px solid red !important;
 }
 
+.image-holder .product-image:hover{
+	border:1px solid #2d5167;
+}
+
 
 /*.slide-hide{
 	display: none;
