@@ -13,3 +13,11 @@ document.addEventListener("DOMContentLoaded", function(){
   });
 }); 
 // DOMContentLoaded  end
+
+
+function setColor(color){
+	$('.thumb-image-color').attr('src', '/products/' + $('.thumb-image-color').attr('data-name') + '-' + color + '.png');
+	$('.image-color').attr('src', '/products/' + $('.image-color').attr('data-name') + '-' + color + '.png');
+	$('.img-color').removeClass('img-color-active');
+	$('.img-color-'+color).addClass('img-color-active');
+}

@@ -175,7 +175,7 @@
     var thumb_slider = new Swiper(".product-thumbnail-slider", {
       slidesPerView: 3,
       spaceBetween: 20,
-      autoplay: true,
+      //autoplay: true,
       direction: "vertical",
       pagination: {
         el: ".swiper-pagination",
@@ -185,7 +185,7 @@
 
     var large_slider = new Swiper(".product-large-slider", {
       slidesPerView: 1,
-      autoplay: true,
+      //autoplay: true,
       spaceBetween: 0,
       effect: 'fade',
       thumbs: {

@@ -7,12 +7,12 @@
       </div>
       <div class="card-body p-0 mt-4">
         <h3 class="card-title text-uppercase">
-          <a href="#">Đại lý cửa nhôm Xingfa chính hãng tại Trà Vinh</a>
+          <a href="<?= Yii::getAlias('@web/site/post') ?>">Đại lý cửa nhôm Xingfa chính hãng tại Trà Vinh</a>
         </h3>
         <p>
         	Review đại lý cửa nhôm Xingfa tại tỉnh Trà Vinh, địa chỉ cung cấp nhôm Xingfa hệ 55, 65 uy tín và chất lượng.
         </p>
-        <a href="#" class="btn btn-normal text-uppercase p-0"><em>Xem tiếp</em></a>
+        <a href="<?= Yii::getAlias('@web/site/post') ?>" class="btn btn-normal text-uppercase p-0"><em>Xem tiếp</em></a>
       </div>
     </div>
   </div>

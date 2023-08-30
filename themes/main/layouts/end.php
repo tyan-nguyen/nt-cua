@@ -87,7 +87,7 @@
     </footer>
     
     
-    <a class="fixedButton" href="">
+    <a class="fixedButton" href="tel:02943840058">
          <div class="roundedFixedBtn">
          	<img src="<?= Yii::getAlias('@web/img/call.gif?v=3') ?>" height="40px" /> 
          	0294.384.0058 

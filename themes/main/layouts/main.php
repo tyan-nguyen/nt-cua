@@ -31,7 +31,7 @@
 
 <!-- <div class="container-fluid border-top"></div> -->
 
-<?= $this->render('article') ?>
+<?= $this->render('article', ['title'=>'Thông tin mới nhất']) ?>
 
 <?= $this->render('brand') ?>
 

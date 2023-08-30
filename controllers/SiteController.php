@@ -80,7 +80,18 @@ class SiteController extends Controller
      *
      * @return string
      */
-    public function actionSinglePost()
+    public function actionPosts()
+    {
+        $this->layout = 'view-post';
+        return $this->render('view-post-list');
+    }
+    
+    /**
+     * Displays detail product page.
+     *
+     * @return string
+     */
+    public function actionPost()
     {
         $this->layout = 'view-post';
         return $this->render('view-post');

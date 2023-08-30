@@ -150,6 +150,10 @@
 	color:white !important;
 }*/
 
+#navbar .user-items ul li{
+	color: var(--bs-primary);
+}
+
 #header-nav{
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -187,7 +191,9 @@
   /*color: white !important;*/
  
 }
-
+.fixed-top #navbar .user-items ul li{
+	color: white;
+}
 .fixed-top #header-nav{
 	height:60px;
 }
@@ -243,6 +249,17 @@ header .top-header li.icon-link {
 	/*text-align: center;*/
 }
 
+#menu-top ul{
+		padding:10px;
+}
+#menu-top ul li{
+		padding-top:5px;
+}
+#menu-top ul li:first-child{
+		padding-top:0px;
+}
+
+
 @media (min-width: 992px){
 	.has-menu-sub2{
 		width:600px;
@@ -277,6 +294,11 @@ header .top-header li.icon-link {
 		background-color: none;
 		display: flex !important;
 		justify-content: center!important;
+		padding:0px;
+	}
+	
+	#menu-top ul li{
+		padding-top:0px;
 	}
 	
 	
@@ -374,3 +396,52 @@ header .top-header li.icon-link {
 	color: white;
 }
 /*end blog*/
+
+
+/*post*/
+.hero-title{
+	font-size: 2rem;
+}
+.p-description{
+	font-style: italic;
+}
+.post-wrap{
+	text-align: justify;
+}
+.post-item h2{
+	margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--bs-primary);
+}
+/*end post*/
+
+/* product */
+.img-color{
+	cursor: pointer;
+	width:50px;
+	margin-right:10px;
+}
+
+.detail-list .btn.btn-medium {
+    padding: 0.5em 0.5em;
+    font-size: 2em;
+    letter-spacing: 1px;
+}
+
+.product-info, .description-content{
+	text-align: justify;
+}
+
+.description-content img{
+	max-width: 100%;
+}
+
+.img-color-active{
+	border: 2px solid red !important;
+}
+
+
+/*.slide-hide{
+	display: none;
+}*/
+/* end product */

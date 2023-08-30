@@ -126,7 +126,7 @@
                 </li> -->
                 
                 <li class="nav-item">
-                  <a class="nav-link me-4" href="#">Blogs</a>
+                  <a class="nav-link me-4" href="<?= Yii::getAlias('@web/site/posts') ?>">Blogs</a>
                 </li>
                 
                 <li class="nav-item dropdown">
@@ -175,11 +175,14 @@
                   <div class="user-items ps-5">
                     <ul class="d-flex justify-content-end list-unstyled">
                       <li class="search-item pe-3" data-bs-toggle="collapse" data-bs-target="#search-box" aria-controls="search-box" aria-expanded="false" aria-label="Toggle navigation">
-                        <svg class="search" width="18" height="18">
+                        <!-- <svg class="search" width="18" height="18">
                           <use xlink:href="#search"></use>
-                        </svg>
+                        </svg> -->
+                        
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        
                       </li>
-                      <li class="pe-3">
+                      <!-- <li class="pe-3">
                         <a href="#">
                           <svg class="user" width="18" height="18">
                             <use xlink:href="#user"></use>
@@ -192,7 +195,7 @@
                             <use xlink:href="#cart"></use>
                           </svg>
                         </a>
-                      </li>
+                      </li> -->
                     </ul>
                   </div>
                 </li>

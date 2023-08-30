@@ -5,10 +5,10 @@
               <div class="container-fluid">
                 <div class="row">
                   <div class="hero-content align-items-center">
-                    <h1 class="display-1">Tin tức</h1>
+                    <h1 class="display-1 hero-title">Đại lý cửa nhôm Xingfa chính hãng tại Trà Vinh</h1>
                       <div class="breadcrumbs">
                         <span class="item">
-                          <a href="index.html">Trang chủ /</a>
+                          <a href="<?= Yii::getAlias('@web') ?>">Trang chủ /</a>
                         </span>
                         <span class="item">Blog</span>
                       </div>
@@ -20,181 +20,93 @@
 	</div>
 </div>
 
-<div class="post-wrap my-5">
-    <div class="container-fluid">
-      <div class="row">
-        <main class="post-list post-card-small">
+<div class="post-wrap padding-small overflow-hidden">
+      <div class="container">
+        <div class="row">
+          <main>
             <div class="row">
+              <article class="post-item">
+                <div class="post-content">
+                  <!-- <div class="post-meta text-uppercase">
+                    <span class="post-category">30/8/2023</span>
+                  </div> -->
+                  <!-- <h1 class="display-1">Đại lý cửa nhôm Xingfa chính hãng tại Trà Vinh</h1> -->
+                  <!-- <div class="hero-image col-lg-12 mt-5">
+                    <img src="<?= Yii::getAlias('@web') ?>/images/single-post-item.jpg" alt="single-post" class="img-fluid">
+                  </div> -->
+                  <div class="post-description">
+                    <!-- <p class="p-description">
+                      <strong>Review đại lý cửa nhôm Xingfa tại tỉnh Trà Vinh, địa chỉ cung cấp nhôm Xingfa hệ 55, 65 uy tín và chất lượng.</strong>
+                    </p> -->
+                    
+                    <p>
+                    Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item1.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Furniture</span> / <span class="meta-date">12 jan, 2023</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">Right Way To Preserve The Fruits & Other Organics</a>
-                    </h5>
-                    <p>Dignissim lacus, turpis ut suspendisse vel tellus. Turpis purus, gravida orci, fringilla...</p>
-                  </div>
-                </article>
-              </div>
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.</p>
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item2.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Bed Rooms</span> / <span class="meta-date">18 jan, 2023</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">Why Do We Need To Hire An Architect Before Building House</a>
-                    </h5>
-                    <p>vel pretium suspendisse ultrices tempus vestibulum, nisl platea adipiscing ac ullamcorper...</p>
-                  </div>
-                </article>
-              </div>
+                    <h2>Cửa nhôm Xingfa nhập khẩu là gì?</h2>
+                    
+                    <p>
+                    Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item9.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Kitchen</span> / <span class="meta-date">10 Feb, 2023</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">How To Choose Right Colors For Your Bedroom Furnitures</a>
-                    </h5>
-                    <p>Consequat suspendisse ultrices tempus vestibulum, nisl platea adipiscing ac ullamcorper...</p>
-                  </div>
-                </article>
-              </div>
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.</p>
+	<p>Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item4.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Living Room</span> / <span class="meta-date">05 March, 2023</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">Right Way To Preserve The Fruits & Other Organics</a>
-                    </h5>
-                    <p>Dignissim lacus, turpis ut suspendisse vel tellus. Turpis purus, gravida orci, fringilla...</p>
-                  </div>
-                </article>
-              </div>
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
+                    </p>
+                    
+                  <p style="text-align:center">
+                    <img src="<?= Yii::getAlias('@web') ?>/images/single-image2.jpg" alt="post-image" class="img-fluid">
+                   </p> 
+                     <h2>Cửa nhôm Xingfa nhập khẩu là gì?</h2>
+                    
+                    <p>
+                    Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item5.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Dining Table</span> / <span class="meta-date">28 March, 2023</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">Best Furnitures for 2023</a>
-                    </h5>
-                    <p>vel pretium suspendisse ultrices tempus vestibulum, nisl platea adipiscing ac ullamcorper...</p>
-                  </div>
-                </article>
-              </div>
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.</p>
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item6.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Guest Room</span> / <span class="meta-date">04 April, 2022</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">Why Do We Need To Hire An Architect Before Building House</a>
-                    </h5>
-                    <p>Consequat suspendisse ultrices tempus vestibulum, nisl platea adipiscing ac ullamcorper...</p>
-                  </div>
-                </article>
-              </div>
+ <p style="text-align:center">
+                    <img src="<?= Yii::getAlias('@web') ?>/images/single-image2.jpg" alt="post-image" class="img-fluid">
+                   </p> 
+                   
+<p>
+Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item7.jpg" class="img-fluid" ="fashion"></a>
-                  </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Furniture</span> / <span class="meta-date">07 April, 2022</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">Right Way To Preserve The Fruits & Other Organics</a>
-                    </h5>
-                    <p>Dignissim lacus, turpis ut suspendisse vel tellus. Turpis purus, gravida orci, fringilla...</p>
-                  </div>
-                </article>
-              </div>
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
 
-              <div class="col-lg-4 col-md-6">
-                <article class="post-item pb-5 image-zoom-effect">
-                  <div class="post-image overflow-hidden">
-                    <a href="single-post.html"><img src="<?= Yii::getAlias('@web') ?>/images/post-item8.jpg" class="img-fluid" ="fashion"></a>
+Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
+
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
+                    </p>
+<p>
+Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
+
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
+
+Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
+
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
+                    </p>
+<p>
+Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
+
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
+
+Cửa nhôm Xingfa nhập khẩu là thuật ngữ dùng để chỉ các dòng cửa được làm từ nhôm Xingfa nhập khẩu kết hợp cùng kính, hệ thống gioăng kép EDPM và phụ kiện đi kèm.
+
+Nhôm Xingfa còn có tên gọi khác là nhôm hệ Xingfa. Đây là dòng nhôm thanh định hình của Công ty TNHH Nhôm Xingfa Quảng Đông- Trung Quốc (GUANGDONG XINGFA ALUMINIUM CO., LTD) sản xuất.
+                    </p>
+<p class="float-end"><strong>DNTN SX-TM Nguyễn Trình</strong></p>
+                    
                   </div>
-                  <div class="post-content">
-                    <div class="post-meta text-uppercase py-3">
-                      <span class="post-category">Bed Rooms</span> / <span class="meta-date">10 April, 2022</span>
-                    </div>
-                    <h5 class="post-title text-uppercase">
-                      <a href="single-post.html">How To Choose Right Colors For Your Bedroom Furnitures</a>
-                    </h5>
-                    <p>vel pretium suspendisse ultrices tempus vestibulum, nisl platea adipiscing ac ullamcorper...</p>
-                  </div>
-                </article>
-              </div>
-              
+
+                </div>
+              </article>
+
             </div>
-
-            <nav aria-label="Page navigation" class="d-flex justify-content-center mt-5">
-              <ul class="pagination">
-                <li class="page-item">
-                  <a class="page-link" href="#" aria-label="Previous">
-                    <svg class="arrow-left" width="18" height="20">
-                       <use xlink:href="#arrow-left"></use>
-                    </svg>
-                  </a>
-                </li>
-                <li class="page-item active" aria-current="page"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item"><a class="page-link" href="#">4</a></li>
-                <li class="page-item"><a class="page-link" href="#">5</a></li>
-                <li class="page-item">
-                  <a class="page-link" href="#" aria-label="Next">
-                    <svg class="arrow-right" width="18" height="20">
-                      <use xlink:href="#arrow-right"></use>
-                    </svg>
-                  </a>
-                </li>
-              </ul>
-            </nav>
-
-        </main>
+          </main>
+        </div>
       </div>
     </div>
-  </div>
-
     
-    
-    
-    
-    
+<?= $this->render('../../themes/main/layouts/article', ['title'=>'Tin tức khác']) ?>
