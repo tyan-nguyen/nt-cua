@@ -10,8 +10,8 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/style.css?v=14">
-    <link rel="stylesheet" type="text/css" href="/css/custom.css?v=14">
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=15">
+    <link rel="stylesheet" type="text/css" href="/css/custom.css?v=15">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">

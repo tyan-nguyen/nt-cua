@@ -51,7 +51,7 @@
           <div class="col-md-3 mb-3 product-item link-effect">
             <div class="image-holder position-relative">
               <a href="<?= Yii::getAlias('@web/site/product') ?>">
-                <img src="<?= Yii::getAlias('@web') ?>/img/product-item6.png" alt="categories" class="product-image img-fluid">
+                <img src="<?= Yii::getAlias('@web') ?>/img/product-item6.png?v=1" alt="categories" class="product-image img-fluid">
               </a>
               <div class="product-content">
                 <h5 class="element-title text-uppercase fs-5 mt-3">

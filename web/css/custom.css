@@ -280,12 +280,12 @@ header .top-header li.icon-link {
 		width: 20%;
 		padding-right:75px;
 		justify-content: flex-end!important;
-		background-image: url(/img/bg-logo.png?v=5);
+		background-image: url(/img/bg-logo.png?v=6);
 		background-repeat: no-repeat; 
 		background-position: right;
 	}
 	#header{
-		background-image: url(/img/bg-body.png?v=5); 
+		background-image: url(/img/bg-body.png?v=6); 
 		background-repeat: repeat-x; 
 		background-position: right;
 	}
@@ -305,14 +305,14 @@ header .top-header li.icon-link {
 	#footer{
 		/*background-color: #46aad0;*/
 		background-color: #133042;
-		background-image: url(/img/bg-footer.png?v=5); 
+		background-image: url(/img/bg-footer.png?v=6); 
 		color: white;
 		background-size: 100% 100% !important;
 	}
 	
 	#company-services{
 		background-color: #efefef;
-		background-image: url(/img/bg-services.png?v=5); 
+		background-image: url(/img/bg-services.png?v=6); 
 		background-size: 100% 100% !important;
 	}
 	
@@ -337,7 +337,7 @@ header .top-header li.icon-link {
 
 #footer{
 		background-color: #133042;
-		background-image: url(/img/bg-footer.png?v=5); 
+		background-image: url(/img/bg-footer.png?v=6); 
 		color: white;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -360,7 +360,7 @@ header .top-header li.icon-link {
 /*company-services*/
 #company-services{
 	background-color: #efefef;
-	background-image: url(/img/bg-services.png?v=5); 
+	background-image: url(/img/bg-services.png?v=6); 
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -388,7 +388,7 @@ header .top-header li.icon-link {
 }
 .bg-building{
 	background-color: #efefef;
-	background-image: url(/img/bg-hero.png?v=0); 
+	background-image: url(/img/bg-hero.png?v=1); 
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
