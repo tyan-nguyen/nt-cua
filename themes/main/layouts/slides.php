@@ -8,13 +8,17 @@
               <div class="row">
                 <div class="col-md-12">
                   <div class="banner-item" style="">
-                  
-                  	<video controls autoplay playsinline width="100%">
+                  	
+                  	<!-- <video controls autoplay playsinline width="100%"> -->
+                  	<video controls autoplay loop muted playsinline width="100%">
                       <!-- <source src="<?= Yii::getAlias('@web')  ?>/img/video.mp4?v=1" type="video/mp4"> -->
                       <source src="<?= Yii::getAlias('@web')  ?>/img/video.mov?v=1" type="video/mp4">
                       <!-- <source src="movie.ogg" type="video/ogg"> -->
                       Your browser does not support the video tag.
                     </video> 
+                    
+                    <!-- 
+                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/O38TEaptsEg?si=exJi19_J2yhdcQzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
                   	<!-- <video src="<?= Yii::getAlias('@web')  ?>/img/video.mp4?v=1" muted width="100%"></video>-->
                   	
