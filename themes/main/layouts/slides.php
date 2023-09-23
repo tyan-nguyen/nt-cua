@@ -2,6 +2,39 @@
       <div class="swiper main-swiper">
         <div class="swiper-wrapper">
         
+        
+        <div class="swiper-slide">
+            <div class="container-fluid container-fluid-extend">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="banner-item" style="">
+                  
+                  	<video controls autoplay  width="100%">
+                      <source src="<?= Yii::getAlias('@web')  ?>/img/video.mp4?v=1" type="video/mp4">
+                      <!-- <source src="movie.ogg" type="video/ogg"> -->
+                      Your browser does not support the video tag.
+                    </video> 
+
+                  	<!-- <video src="<?= Yii::getAlias('@web')  ?>/img/video.mp4?v=1" muted width="100%"></video>-->
+                  	
+                    <!-- <div class="banner-content padding-small">
+                      <h1 class="display-1 text-uppercase text-dark pb-2">CỬA NHÔM</h1>
+                      <p>Cửa nhôm kính không chỉ bền, đẹp, thích hợp với sự thay đổi của điều kiện khí hậu môi trường mà còn có tính chống nhiệt, chống nước, không bị ảnh hưởng bởi mưa gió như cửa nhựa hay bị bong tróc khi thấm nước mưa như cửa gỗ.</p>                      
+                      <a href="#" class="btn btn-medium btn-arrow position-relative mt-5">
+                        <span class="text-uppercase">XEM NGAY</span>            
+                        <svg class="arrow-right position-absolute" width="18" height="20">
+                          <use xlink:href="#arrow-right"></use>
+                        </svg>
+                      </a>   
+                    </div> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          
+        <?php /* ?>
         <div class="swiper-slide">
             <div class="container-fluid container-fluid-extend">
               <div class="row">
@@ -45,6 +78,8 @@
               </div>
             </div>
           </div>
+          <?php */ ?>
+          
           
           
           <!-- <div class="swiper-slide">

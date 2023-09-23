@@ -22,10 +22,7 @@
                 <?= $this->render('product/product4') ?>
                 <?= $this->render('product/product5') ?>
                 <?= $this->render('product/product6') ?>
-                
-                
-                
-                
+
               </div>
             </div>
             <div class="swiper-pagination text-center mt-5"></div>
