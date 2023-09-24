@@ -10,7 +10,7 @@
                   <div class="banner-item" style="">
                   	
                   	<!-- <video controls autoplay playsinline width="100%"> -->
-                  	<video controls autoplay loop playsinline width="100%">
+                  	<video controls autoplay loop muted playsinline width="100%">
                       <!-- <source src="<?= Yii::getAlias('@web')  ?>/img/video.mp4?v=1" type="video/mp4">  -->
                      <source src="<?= Yii::getAlias('@web')  ?>/img/video2.mov?v=1" type="video/mp4">
                       <!-- <source src="movie.ogg" type="video/ogg"> -->
