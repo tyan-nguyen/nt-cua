@@ -7,10 +7,10 @@
             <div class="container-fluid container-fluid-extend">
               <div class="row">
                 <div class="col-md-12">
-                  <div class="banner-item" style="">
+                  <div class="banner-item" style="text-align:center">
                   	
                   	<!-- <video controls autoplay playsinline width="100%"> -->
-                  	<video controls autoplay loop playsinline width="100%">
+                  	<video controls autoplay loop playsinline class="slide-vdieo">
                       <!-- <source src="<?= Yii::getAlias('@web')  ?>/img/video.mp4?v=1" type="video/mp4">  -->
                      <source src="<?= Yii::getAlias('@web')  ?>/img/video2.mov?v=1" type="video/mp4">
                       <!-- <source src="movie.ogg" type="video/ogg"> -->

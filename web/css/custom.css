@@ -260,7 +260,22 @@ header .top-header li.icon-link {
 }
 
 
+.slide-vdieo{
+	width: 100%;
+	border: 1px solid #ddd;
+}
+
+@media (min-width: 1500px){
+
+	.slide-vdieo{
+		width: 1500px;
+		text-align: center;
+	}
+
+}
+
 @media (min-width: 992px){
+	
 	.has-menu-sub2{
 		width:600px;
 	}
@@ -443,6 +458,8 @@ header .top-header li.icon-link {
 .image-holder .product-image:hover{
 	border:1px solid #2d5167;
 }
+
+
 
 
 /*.slide-hide{
