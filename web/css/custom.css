@@ -368,7 +368,11 @@ header .top-header li.icon-link {
 	color: white !important;
 }
 
-#footer .contact-item a:hover{
+#footer ul li a{
+	letter-spacing: 1px;
+}
+
+#footer ul li a:hover{
 	color:red;
 }
 

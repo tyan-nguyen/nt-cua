@@ -1,6 +1,27 @@
 <div class="container-fluid  container-fluid-extend padding-medium">
 
 <div class="row">
+
+<div class="col-lg-12 col-md-12">
+ <section id="collections1" class="position-relative padding-small">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="swiper collection-swiper collection-swiper1">
+            <div class="swiper-wrapper">
+              
+              <?= $this->render('collection3/slide1') ?>
+              <?= $this->render('collection3/slide2') ?>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-pagination swiper-pagination1 position-absolute text-center" style="bottom:0"></div>
+    </section>
+</div>
+
+<?php /* ?>
+
 <div class="col-lg-4 col-md-6">
  <section id="collections1" class="position-relative padding-small">
       <div class="container-fluid">
@@ -20,6 +41,8 @@
       <div class="swiper-pagination swiper-pagination1 position-absolute text-center"></div>
     </section>
 </div>
+
+
 <div class="col-lg-4 col-md-6">
  <section id="collections2" class="position-relative padding-small">
       <div class="container-fluid">
@@ -58,6 +81,9 @@
       <div class="swiper-pagination swiper-pagination3 position-absolute text-center"></div>
     </section>
 </div> 
+
+<?php */ ?>
+
 </div>
 
 </div>
