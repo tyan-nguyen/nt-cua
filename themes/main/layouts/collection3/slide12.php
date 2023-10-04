@@ -7,7 +7,7 @@
   </div> -->
   <div class="image-overlay position-relative">
     <div class="product-image">
-      <img src="<?= Yii::getAlias('@web')  ?>/img/product-item1.png" alt="product-item" class="product-image img-fluid">
+      <img src="<?= Yii::getAlias('@web')  ?>/img/product-new-2.png" alt="product-item" class="product-image img-fluid">
       <div class="text-box box-slide position-absolute">
         <div class="text-content p-3 bg-light">
           <h3>Hệ cửa nhôm</h3>
@@ -19,7 +19,7 @@
                         <svg class="arrow-right position-absolute" width="18" height="20">
                           <use xlink:href="#arrow-right"></use>
                         </svg>
-                      </a>  
+                      </a>   
         </div>
       </div>
     </div>

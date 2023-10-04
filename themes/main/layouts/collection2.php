@@ -7,10 +7,11 @@
       <div class="container-fluid">
         <div class="row">
           <div class="swiper collection-swiper collection-swiper1">
-            <div class="swiper-wrapper">
+            <div class="swiper-wrapper text-center">
               
-              <?= $this->render('collection3/slide1') ?>
+              <?= $this->render('collection3/slide12') ?>
               <?= $this->render('collection3/slide2') ?>
+              <?= $this->render('collection3/slide3') ?>
               
             </div>
           </div>
