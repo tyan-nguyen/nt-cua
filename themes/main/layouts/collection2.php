@@ -1,8 +1,8 @@
-<div class="container-fluid  container-fluid-extend padding-medium">
+<div class="container-fluid container-fluid-extend padding-medium>
 
-<div class="row">
+<div class="row ">
 
-<div class="col-lg-12 col-md-12">
+<div class="col-lg-12 col-md-12 mb-2">
  <section id="collections1" class="position-relative padding-small">
       <div class="container-fluid">
         <div class="row">

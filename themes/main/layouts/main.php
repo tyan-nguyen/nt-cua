@@ -30,9 +30,12 @@
 <?php /* $this->render('product2') */ ?>
 
 <!-- <div class="container-fluid border-top"></div> -->
+<?= $this->render('call-brand') ?>
 
 <?= $this->render('article', ['title'=>'Thông tin mới nhất']) ?>
 
+
 <?= $this->render('brand') ?>
+
 
 <?= $this->render('end') ?>

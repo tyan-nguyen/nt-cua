@@ -83,6 +83,9 @@
 	max-height:200px;
 }
 
+#brand-collection{
+	background-color: #efefef;
+}
 #brand-collection img{
 	max-height:60px;
 }
@@ -403,7 +406,7 @@ header .top-header li.icon-link {
 
 /*blog*/
 #latest-blog{
-	background-color: #efefef;
+	/*background-color: #efefef;*/
 }
 .bg-building{
 	background-color: #efefef;
@@ -464,7 +467,19 @@ header .top-header li.icon-link {
 }
 
 
+.cus-bg-dark{
+	background-color: #efefef;
+}
 
+.cus-brand-bg{
+	background-image: url(/img/product-new-bg.png);
+	background-repeat: no-repeat; 
+	background-position: left;
+}
+
+.cus-bg-white{
+	background-color: white;
+}
 
 /*.slide-hide{
 	display: none;
